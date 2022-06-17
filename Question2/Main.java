@@ -24,11 +24,9 @@ public class Main {
     	   
     	   
        }
-//       for(int i=0; i<se.size(); i++) {
-//    	   System.out.println(se.);  
-//       }
-       
-       
+       for(Employee ee:se ) {
+    	   System.out.println(ee);  
+       } 
 	}
 
 }
